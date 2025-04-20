@@ -1,0 +1,4 @@
+train: C:\Users\ADMIN\Desktop\DEEP LEARNING MATERIAL\ObjectDetection\train
+val: C:\Users\ADMIN\Desktop\DEEP LEARNING MATERIAL\ObjectDetection\train
+nc: 1  
+names: ['fire']  
