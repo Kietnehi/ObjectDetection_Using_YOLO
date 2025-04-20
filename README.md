@@ -1,7 +1,8 @@
 # Demo YOLOv11 - Fire Detection Model
 
 ## Mô tả
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/963b60a4-1f46-4bbc-9c15-9a051fdac4e9)
+
 
 Dự án này được thực hiện để demo về việc sử dụng YOLOv11 (You Only Look Once version 11) trong việc nhận diện và phân loại đối tượng trong hình ảnh. Cụ thể, mục tiêu của dự án là huấn luyện một mô hình YOLOv11 để nhận diện liệu một bức hình có chứa "Lửa" (Fire) hay không, và trả về độ tin cậy (confidence) dựa trên kết quả nhận diện.
 
