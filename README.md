@@ -5,6 +5,9 @@
 
 
 Dự án này được thực hiện để demo về việc sử dụng YOLOv11 (You Only Look Once version 11) trong việc nhận diện và phân loại đối tượng trong hình ảnh. Cụ thể, mục tiêu của dự án là huấn luyện một mô hình YOLOv11 để nhận diện liệu một bức hình có chứa "Lửa" (Fire) hay không, và trả về độ tin cậy (confidence) dựa trên kết quả nhận diện.
+## Hình ảnh sơ lược về web dùng Framework Streamlit
+Web cho người dùng chọn ảnh xong sau đó detect Fire và cho biết các thông số nhận diện Confidence,Detection,Class,Coordinates
+![image](https://github.com/user-attachments/assets/27d7e5d1-e6e0-429f-9c4b-d83c6064ddfe)
 
 ## Cấu hình dự án
 
