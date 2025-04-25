@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/233159e0-d039-420c-93f8-eb00027bb337)#  YOLOv11 -  Web for  Fire Detection Model ( **Python Version 3.11.5**)
+#  YOLOv11 -  Web for  Fire Detection Model ( **Python Version 3.11.5**)
 
 ## Mô tả
 ![image](https://github.com/user-attachments/assets/963b60a4-1f46-4bbc-9c15-9a051fdac4e9)
@@ -10,7 +10,8 @@ Ngoài ra khi chọn Video thì bạn cũng có thể lưu video đã được d
 Web cho người dùng chọn ảnh xong sau đó detect Fire và cho biết các thông số nhận diện Confidence,Detection,Class,Coordinates
 ![image](https://github.com/user-attachments/assets/dc8dcc29-e11a-4557-a40c-f4d6a82c989b)
 ![image](https://github.com/user-attachments/assets/199b782f-8853-4625-ab9d-2ce4e52cbcb9)
-![image](https://github.com/user-attachments/assets/ec4dbae8-de7c-4e72-b161-76c72b90e7a0)
+![image](https://github.com/user-attachments/assets/91f9a3db-7904-4551-9727-abce5116fcae)
+
 
 
 ## Cấu hình dự án
