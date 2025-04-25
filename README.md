@@ -1,4 +1,4 @@
-# Demo YOLOv11 - Fire Detection Model
+#  YOLOv11 -  Web for  Fire Detection Model
 
 ## Mô tả
 ![image](https://github.com/user-attachments/assets/963b60a4-1f46-4bbc-9c15-9a051fdac4e9)
