@@ -1,13 +1,17 @@
-#  YOLOv11 -  Web for  Fire Detection Model ( **Python Version 3.11.5**)
+![image](https://github.com/user-attachments/assets/233159e0-d039-420c-93f8-eb00027bb337)#  YOLOv11 -  Web for  Fire Detection Model ( **Python Version 3.11.5**)
 
 ## Mô tả
 ![image](https://github.com/user-attachments/assets/963b60a4-1f46-4bbc-9c15-9a051fdac4e9)
 
 
 Dự án này được thực hiện để demo về việc sử dụng YOLOv11 (You Only Look Once version 11) trong việc nhận diện và phân loại đối tượng trong hình ảnh. Cụ thể, mục tiêu của dự án là huấn luyện một mô hình YOLOv11 để nhận diện liệu một bức hình có chứa "Lửa" (Fire) hay không, và trả về độ tin cậy (confidence) dựa trên kết quả nhận diện.
+Ngoài ra khi chọn Video thì bạn cũng có thể lưu video đã được detect về máy của mình luôn 
 ## Hình ảnh sơ lược về web dùng Framework Streamlit
 Web cho người dùng chọn ảnh xong sau đó detect Fire và cho biết các thông số nhận diện Confidence,Detection,Class,Coordinates
-![image](https://github.com/user-attachments/assets/27d7e5d1-e6e0-429f-9c4b-d83c6064ddfe)
+![image](https://github.com/user-attachments/assets/dc8dcc29-e11a-4557-a40c-f4d6a82c989b)
+![image](https://github.com/user-attachments/assets/199b782f-8853-4625-ab9d-2ce4e52cbcb9)
+![image](https://github.com/user-attachments/assets/ec4dbae8-de7c-4e72-b161-76c72b90e7a0)
+
 
 ## Cấu hình dự án
 
